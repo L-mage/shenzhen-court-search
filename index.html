@@ -7,7 +7,17 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="container">
+  <!-- Geo-block overlay for non-China visitors -->
+  <div id="geoBlockOverlay" class="geo-block-overlay hidden">
+    <div class="geo-block-card">
+      <div class="geo-block-icon">&#127759;</div>
+      <h2>本站仅限中国大陆访问</h2>
+      <p>本网站仅供中国大陆法律从业者使用，<br>暂不对境外开放。</p>
+      <p class="geo-block-sub">This website is only accessible from mainland China.</p>
+    </div>
+  </div>
+
+  <div class="container" id="mainContainer">
     <!-- Header -->
     <header class="header">
       <h1 class="title">深圳市法院法官公务电话查询</h1>
@@ -132,6 +142,41 @@
     </footer>
   </div>
 
+  <script>
+    // Geo-block: only allow access from mainland China
+    (async function () {
+      var overlay = document.getElementById('geoBlockOverlay');
+      var container = document.getElementById('mainContainer');
+
+      try {
+        // Try multiple free IP geolocation APIs
+        var resp = await fetch('https://api.ip.sb/geoip');
+        var data = await resp.json();
+        if (data.country_code === 'CN') {
+          overlay.classList.add('hidden');
+          return;
+        }
+      } catch (e) {
+        // Fallback: if API fails, try another
+        try {
+          var resp2 = await fetch('https://ipapi.co/json/');
+          var data2 = await resp2.json();
+          if (data2.country_code === 'CN') {
+            overlay.classList.add('hidden');
+            return;
+          }
+        } catch (e2) {
+          // If all APIs fail, allow access (don't block legitimate users)
+          overlay.classList.add('hidden');
+          return;
+        }
+      }
+
+      // Non-China visitor: show block overlay, hide main content
+      container.style.display = 'none';
+      overlay.classList.remove('hidden');
+    })();
+  </script>
   <script src="judge-data.js"></script>
   <script src="script.js"></script>
 </body>

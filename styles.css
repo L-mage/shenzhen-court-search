@@ -553,6 +553,52 @@ body::before {
   display: none;
 }
 
+/* ===== Geo-Block Overlay ===== */
+.geo-block-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-cream);
+}
+
+.geo-block-overlay.hidden {
+  display: none;
+}
+
+.geo-block-card {
+  text-align: center;
+  padding: 48px 32px;
+  max-width: 480px;
+}
+
+.geo-block-icon {
+  font-size: 56px;
+  margin-bottom: 20px;
+}
+
+.geo-block-card h2 {
+  font-size: 22px;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+  letter-spacing: 1px;
+}
+
+.geo-block-card p {
+  font-size: 15px;
+  color: var(--text-secondary);
+  line-height: 1.8;
+  margin-bottom: 4px;
+}
+
+.geo-block-sub {
+  font-size: 13px !important;
+  color: var(--text-muted) !important;
+  margin-top: 8px;
+}
+
 /* ===== Footer ===== */
 .footer {
   text-align: center;
