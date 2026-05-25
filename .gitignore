@@ -1,0 +1,6 @@
+node_modules/
+package.json
+package-lock.json
+judge-data.json
+extract.js
+*.json
