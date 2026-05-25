@@ -4,7 +4,7 @@
 
 ## 在线访问
 
-[https://xu6ke.github.io/shenzhen-court-search/](https://xu6ke.github.io/shenzhen-court-search/)
+[https://L-mage.github.io/shenzhen-court-search/](https://L-mage.github.io/shenzhen-court-search/)
 
 ## 功能特性
 
