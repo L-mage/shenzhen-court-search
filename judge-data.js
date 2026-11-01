@@ -7922,27 +7922,27 @@ const judgeData = [
   {
     "name": "胡绍锋",
     "court": "福田区人民法院",
-    "department": "审判庭",
-    "deptDetail": "诉讼专线",
-    "caseType": "民事",
+    "department": "立案庭",
+    "deptDetail": "立案庭",
+    "caseType": "",
     "district": "福田区",
     "phone": "0755-21981129"
   },
   {
     "name": "幸越",
     "court": "福田区人民法院",
-    "department": "审判庭",
-    "deptDetail": "诉讼专线",
-    "caseType": "民事",
+    "department": "立案庭",
+    "deptDetail": "立案庭",
+    "caseType": "",
     "district": "福田区",
     "phone": "0755-21981103"
   },
   {
     "name": "温琪",
     "court": "福田区人民法院",
-    "department": "审判庭",
-    "deptDetail": "诉讼专线",
-    "caseType": "民事",
+    "department": "立案庭",
+    "deptDetail": "立案庭",
+    "caseType": "",
     "district": "福田区",
     "phone": "0755-21981774"
   },
@@ -7950,7 +7950,7 @@ const judgeData = [
     "name": "余冠鹏",
     "court": "福田区人民法院",
     "department": "立案庭",
-    "deptDetail": "立案登记团队",
+    "deptDetail": "立案庭",
     "caseType": "",
     "district": "福田区",
     "phone": "0755-21981055"
@@ -7959,7 +7959,7 @@ const judgeData = [
     "name": "邓小明",
     "court": "福田区人民法院",
     "department": "立案庭",
-    "deptDetail": "立案登记团队",
+    "deptDetail": "立案庭",
     "caseType": "",
     "district": "福田区",
     "phone": "0755-21981282"
@@ -7968,7 +7968,7 @@ const judgeData = [
     "name": "刘建军",
     "court": "福田区人民法院",
     "department": "立案庭",
-    "deptDetail": "立案登记团队",
+    "deptDetail": "立案庭",
     "caseType": "",
     "district": "福田区",
     "phone": "0755-21981489"
@@ -7977,7 +7977,7 @@ const judgeData = [
     "name": "张桃勇",
     "court": "福田区人民法院",
     "department": "立案庭",
-    "deptDetail": "立案登记团队",
+    "deptDetail": "立案庭",
     "caseType": "",
     "district": "福田区",
     "phone": "0755-21981886"
@@ -7986,7 +7986,7 @@ const judgeData = [
     "name": "刘虹",
     "court": "福田区人民法院",
     "department": "立案庭",
-    "deptDetail": "立案登记团队",
+    "deptDetail": "立案庭",
     "caseType": "",
     "district": "福田区",
     "phone": "0755-21981542"
@@ -7995,7 +7995,7 @@ const judgeData = [
     "name": "赵妍",
     "court": "福田区人民法院",
     "department": "立案庭",
-    "deptDetail": "立案登记团队",
+    "deptDetail": "立案庭",
     "caseType": "",
     "district": "福田区",
     "phone": "0755-21981620"
@@ -8022,7 +8022,7 @@ const judgeData = [
     "name": "谢婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "流程管理组",
+    "deptDetail": "信访室",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981490"
@@ -8031,7 +8031,7 @@ const judgeData = [
     "name": "黄晓萍",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "流程管理组",
+    "deptDetail": "信访室",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981629"
@@ -8139,8 +8139,8 @@ const judgeData = [
     "name": "李涛",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981057"
   },
@@ -8148,8 +8148,8 @@ const judgeData = [
     "name": "黄林村",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981232"
   },
@@ -8157,8 +8157,8 @@ const judgeData = [
     "name": "巫宇宁",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981231"
   },
@@ -8166,8 +8166,8 @@ const judgeData = [
     "name": "尹川",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981056"
   },
@@ -8175,8 +8175,8 @@ const judgeData = [
     "name": "杨狄",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981265"
   },
@@ -8184,8 +8184,8 @@ const judgeData = [
     "name": "刘飞飞",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981266"
   },
@@ -8193,8 +8193,8 @@ const judgeData = [
     "name": "李磊",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981951"
   },
@@ -8202,8 +8202,8 @@ const judgeData = [
     "name": "黄柳清",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981944"
   },
@@ -8211,8 +8211,8 @@ const judgeData = [
     "name": "王小娴",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981846"
   },
@@ -8220,8 +8220,8 @@ const judgeData = [
     "name": "平建明",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981115"
   },
@@ -8229,8 +8229,8 @@ const judgeData = [
     "name": "陈文敏",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981826"
   },
@@ -8238,8 +8238,8 @@ const judgeData = [
     "name": "廖萍",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981515"
   },
@@ -8247,8 +8247,8 @@ const judgeData = [
     "name": "胡许晴",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981640"
   },
@@ -8256,8 +8256,8 @@ const judgeData = [
     "name": "孙浩",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981235"
   },
@@ -8265,8 +8265,8 @@ const judgeData = [
     "name": "周芝芳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981980"
   },
@@ -8274,8 +8274,8 @@ const judgeData = [
     "name": "陈煊",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981632"
   },
@@ -8283,8 +8283,8 @@ const judgeData = [
     "name": "陈敏",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981181"
   },
@@ -8292,8 +8292,8 @@ const judgeData = [
     "name": "钟木村",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981113"
   },
@@ -8301,8 +8301,8 @@ const judgeData = [
     "name": "翁雅玲",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981228"
   },
@@ -8310,8 +8310,8 @@ const judgeData = [
     "name": "李君男",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981034"
   },
@@ -8319,8 +8319,8 @@ const judgeData = [
     "name": "麦嘉杰",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981238"
   },
@@ -8328,8 +8328,8 @@ const judgeData = [
     "name": "刘文婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981246"
   },
@@ -8337,8 +8337,8 @@ const judgeData = [
     "name": "慕锋",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981239"
   },
@@ -8346,8 +8346,8 @@ const judgeData = [
     "name": "钟佳汝",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981842"
   },
@@ -8355,8 +8355,8 @@ const judgeData = [
     "name": "廖一玮",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981420"
   },
@@ -8364,8 +8364,8 @@ const judgeData = [
     "name": "何文聪",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "刑事审判庭",
+    "caseType": "刑事",
     "district": "福田区",
     "phone": "0755-21981244"
   },
@@ -8373,7 +8373,7 @@ const judgeData = [
     "name": "黄劭辉",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981185"
@@ -8382,7 +8382,7 @@ const judgeData = [
     "name": "戚欣",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981176"
@@ -8391,7 +8391,7 @@ const judgeData = [
     "name": "郑周瑾",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981229"
@@ -8400,7 +8400,7 @@ const judgeData = [
     "name": "刘敏峰",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981065"
@@ -8409,7 +8409,7 @@ const judgeData = [
     "name": "戴瑶",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981555"
@@ -8418,7 +8418,7 @@ const judgeData = [
     "name": "钟鑫",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981986"
@@ -8427,7 +8427,7 @@ const judgeData = [
     "name": "刘静",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981142"
@@ -8436,7 +8436,7 @@ const judgeData = [
     "name": "徐羚",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981937"
@@ -8445,7 +8445,7 @@ const judgeData = [
     "name": "曾嘉美",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981883"
@@ -8454,7 +8454,7 @@ const judgeData = [
     "name": "胡超",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981243"
@@ -8463,7 +8463,7 @@ const judgeData = [
     "name": "洪纯",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981713"
@@ -8472,7 +8472,7 @@ const judgeData = [
     "name": "李莉",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981070"
@@ -8481,7 +8481,7 @@ const judgeData = [
     "name": "张乐艺",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981361"
@@ -8490,7 +8490,7 @@ const judgeData = [
     "name": "郑浩权",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981204"
@@ -8499,7 +8499,7 @@ const judgeData = [
     "name": "黄倩倩",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981828"
@@ -8508,7 +8508,7 @@ const judgeData = [
     "name": "何志伦",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981295"
@@ -8517,7 +8517,7 @@ const judgeData = [
     "name": "黄潇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981914"
@@ -8526,7 +8526,7 @@ const judgeData = [
     "name": "严伟晖",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981116"
@@ -8535,7 +8535,7 @@ const judgeData = [
     "name": "林小姣",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981457"
@@ -8544,7 +8544,7 @@ const judgeData = [
     "name": "史薇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981934"
@@ -8553,7 +8553,7 @@ const judgeData = [
     "name": "林楚娟",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981405"
@@ -8562,7 +8562,7 @@ const judgeData = [
     "name": "熊祥剑",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981458"
@@ -8571,7 +8571,7 @@ const judgeData = [
     "name": "傅志欣",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981290"
@@ -8580,7 +8580,7 @@ const judgeData = [
     "name": "吴爽",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981898"
@@ -8589,7 +8589,7 @@ const judgeData = [
     "name": "段雅",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981242"
@@ -8598,7 +8598,7 @@ const judgeData = [
     "name": "徐少芝",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981283"
@@ -8607,7 +8607,7 @@ const judgeData = [
     "name": "杨华鹏",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981241"
@@ -8616,7 +8616,7 @@ const judgeData = [
     "name": "罗敏",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981241"
@@ -8625,7 +8625,7 @@ const judgeData = [
     "name": "陈冰儿",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981691"
@@ -8634,7 +8634,7 @@ const judgeData = [
     "name": "李轶男",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981032"
@@ -8643,7 +8643,7 @@ const judgeData = [
     "name": "马舒婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981075"
@@ -8652,7 +8652,7 @@ const judgeData = [
     "name": "陈美玲",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981226"
@@ -8661,7 +8661,7 @@ const judgeData = [
     "name": "邱龙",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981999"
@@ -8670,7 +8670,7 @@ const judgeData = [
     "name": "胡文悦",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981203"
@@ -8679,7 +8679,7 @@ const judgeData = [
     "name": "黄斯",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981203"
@@ -8688,7 +8688,7 @@ const judgeData = [
     "name": "崔志远",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981723"
@@ -8697,7 +8697,7 @@ const judgeData = [
     "name": "许美娣",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981364"
@@ -8706,7 +8706,7 @@ const judgeData = [
     "name": "欧秋彤",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981558"
@@ -8715,7 +8715,7 @@ const judgeData = [
     "name": "赵辉",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981183"
@@ -8724,7 +8724,7 @@ const judgeData = [
     "name": "梁丹萍",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981531"
@@ -8733,7 +8733,7 @@ const judgeData = [
     "name": "陈洵娴",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981384"
@@ -8742,7 +8742,7 @@ const judgeData = [
     "name": "胡薇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981107"
@@ -8751,7 +8751,7 @@ const judgeData = [
     "name": "刘锐",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981577"
@@ -8760,7 +8760,7 @@ const judgeData = [
     "name": "谢寒",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981450"
@@ -8769,7 +8769,7 @@ const judgeData = [
     "name": "周显榕",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981053"
@@ -8778,7 +8778,7 @@ const judgeData = [
     "name": "梁裕梅",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981303"
@@ -8787,7 +8787,7 @@ const judgeData = [
     "name": "朱莉莉",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981286"
@@ -8796,7 +8796,7 @@ const judgeData = [
     "name": "刘智枫",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981106"
@@ -8805,7 +8805,7 @@ const judgeData = [
     "name": "赖淑婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981277"
@@ -8814,7 +8814,7 @@ const judgeData = [
     "name": "张卜钰",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981926"
@@ -8823,7 +8823,7 @@ const judgeData = [
     "name": "刘巧静",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981493"
@@ -8832,7 +8832,7 @@ const judgeData = [
     "name": "姚玉杰",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981037"
@@ -8841,7 +8841,7 @@ const judgeData = [
     "name": "张嘉惠",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981734"
@@ -8850,7 +8850,7 @@ const judgeData = [
     "name": "童琳琳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981985"
@@ -8859,7 +8859,7 @@ const judgeData = [
     "name": "张晓芬",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981308"
@@ -8868,7 +8868,7 @@ const judgeData = [
     "name": "严燕",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981024"
@@ -8877,7 +8877,7 @@ const judgeData = [
     "name": "李安武",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981110"
@@ -8886,7 +8886,7 @@ const judgeData = [
     "name": "方凤霁",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981776"
@@ -8895,7 +8895,7 @@ const judgeData = [
     "name": "许妍妍",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981776"
@@ -8904,7 +8904,7 @@ const judgeData = [
     "name": "黄婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981133"
@@ -8913,7 +8913,7 @@ const judgeData = [
     "name": "杨学全",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981114"
@@ -8922,7 +8922,7 @@ const judgeData = [
     "name": "王晓",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981114"
@@ -8931,7 +8931,7 @@ const judgeData = [
     "name": "陈东方",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981224"
@@ -8940,7 +8940,7 @@ const judgeData = [
     "name": "杨璐",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981597"
@@ -8949,7 +8949,7 @@ const judgeData = [
     "name": "陈佳琪",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981335"
@@ -8958,7 +8958,7 @@ const judgeData = [
     "name": "黄永周",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981096"
@@ -8967,7 +8967,7 @@ const judgeData = [
     "name": "黄琦",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981269"
@@ -8976,7 +8976,7 @@ const judgeData = [
     "name": "姚蕴绮",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判一庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981475"
@@ -8985,7 +8985,7 @@ const judgeData = [
     "name": "唐春丽",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981374"
@@ -8994,7 +8994,7 @@ const judgeData = [
     "name": "王俊坛",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981312"
@@ -9003,7 +9003,7 @@ const judgeData = [
     "name": "陈娟玲",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981288"
@@ -9012,7 +9012,7 @@ const judgeData = [
     "name": "雷勰",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981716"
@@ -9021,7 +9021,7 @@ const judgeData = [
     "name": "陈芷君",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981594"
@@ -9030,7 +9030,7 @@ const judgeData = [
     "name": "刘影",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981311"
@@ -9039,7 +9039,7 @@ const judgeData = [
     "name": "许丽婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981415"
@@ -9048,7 +9048,7 @@ const judgeData = [
     "name": "王浩杰",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981039"
@@ -9057,7 +9057,7 @@ const judgeData = [
     "name": "张凌炜",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981100"
@@ -9066,7 +9066,7 @@ const judgeData = [
     "name": "张咪",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981313"
@@ -9075,7 +9075,7 @@ const judgeData = [
     "name": "聂海琴",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981389"
@@ -9084,7 +9084,7 @@ const judgeData = [
     "name": "周艺",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981297"
@@ -9093,7 +9093,7 @@ const judgeData = [
     "name": "赖云清",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981146"
@@ -9102,7 +9102,7 @@ const judgeData = [
     "name": "黎思",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981030"
@@ -9111,7 +9111,7 @@ const judgeData = [
     "name": "王春梅",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981696"
@@ -9120,7 +9120,7 @@ const judgeData = [
     "name": "陈卫佳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981630"
@@ -9129,7 +9129,7 @@ const judgeData = [
     "name": "王慧贞",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981505"
@@ -9138,7 +9138,7 @@ const judgeData = [
     "name": "阙立勇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981915"
@@ -9147,7 +9147,7 @@ const judgeData = [
     "name": "谢世豪",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981580"
@@ -9156,7 +9156,7 @@ const judgeData = [
     "name": "张艳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981298"
@@ -9165,7 +9165,7 @@ const judgeData = [
     "name": "廖泰琳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981159"
@@ -9174,7 +9174,7 @@ const judgeData = [
     "name": "胡艺",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981321"
@@ -9183,7 +9183,7 @@ const judgeData = [
     "name": "范桃江",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981751"
@@ -9192,7 +9192,7 @@ const judgeData = [
     "name": "李泽玫",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981793"
@@ -9201,7 +9201,7 @@ const judgeData = [
     "name": "黄麟舒",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981186"
@@ -9210,7 +9210,7 @@ const judgeData = [
     "name": "董丽鸣",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981688"
@@ -9219,7 +9219,7 @@ const judgeData = [
     "name": "江红虹",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981102"
@@ -9228,7 +9228,7 @@ const judgeData = [
     "name": "赖霖姗",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981380"
@@ -9237,7 +9237,7 @@ const judgeData = [
     "name": "江文龙",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981816"
@@ -9246,7 +9246,7 @@ const judgeData = [
     "name": "张宝心",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981492"
@@ -9255,7 +9255,7 @@ const judgeData = [
     "name": "阳文",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981746"
@@ -9264,7 +9264,7 @@ const judgeData = [
     "name": "赵雅雯",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "民事审判二庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981756"
@@ -9273,7 +9273,7 @@ const judgeData = [
     "name": "李敏通",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981077"
@@ -9282,7 +9282,7 @@ const judgeData = [
     "name": "舒适",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981891"
@@ -9291,7 +9291,7 @@ const judgeData = [
     "name": "何伟霞",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981482"
@@ -9300,7 +9300,7 @@ const judgeData = [
     "name": "周长波",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981955"
@@ -9309,7 +9309,7 @@ const judgeData = [
     "name": "彭凯薇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981370"
@@ -9318,7 +9318,7 @@ const judgeData = [
     "name": "赵琳媛",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981425"
@@ -9327,7 +9327,7 @@ const judgeData = [
     "name": "周予晴",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981058"
@@ -9336,7 +9336,7 @@ const judgeData = [
     "name": "谭茜元",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981608"
@@ -9345,7 +9345,7 @@ const judgeData = [
     "name": "骆盈盈",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981317"
@@ -9354,7 +9354,7 @@ const judgeData = [
     "name": "谭茜",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981136"
@@ -9363,7 +9363,7 @@ const judgeData = [
     "name": "李倩霞",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981667"
@@ -9372,7 +9372,7 @@ const judgeData = [
     "name": "丘晶晶",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981209"
@@ -9381,7 +9381,7 @@ const judgeData = [
     "name": "罗娜",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981670"
@@ -9390,7 +9390,7 @@ const judgeData = [
     "name": "刘晴",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981436"
@@ -9399,7 +9399,7 @@ const judgeData = [
     "name": "谭瑞莹",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981586"
@@ -9408,7 +9408,7 @@ const judgeData = [
     "name": "黄红华",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981099"
@@ -9417,7 +9417,7 @@ const judgeData = [
     "name": "吴玉茹",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981381"
@@ -9426,7 +9426,7 @@ const judgeData = [
     "name": "吴晓姝",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981416"
@@ -9435,7 +9435,7 @@ const judgeData = [
     "name": "李如君",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981596"
@@ -9444,7 +9444,7 @@ const judgeData = [
     "name": "刘家宏",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981394"
@@ -9453,7 +9453,7 @@ const judgeData = [
     "name": "刘思涵",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981547"
@@ -9462,7 +9462,7 @@ const judgeData = [
     "name": "柏慧",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981118"
@@ -9471,7 +9471,7 @@ const judgeData = [
     "name": "林巧茹",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981396"
@@ -9480,7 +9480,7 @@ const judgeData = [
     "name": "谢丹衡",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981033"
@@ -9489,7 +9489,7 @@ const judgeData = [
     "name": "彭欣",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981160"
@@ -9498,7 +9498,7 @@ const judgeData = [
     "name": "白松灵",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981196"
@@ -9507,7 +9507,7 @@ const judgeData = [
     "name": "邓程倩",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981292"
@@ -9516,7 +9516,7 @@ const judgeData = [
     "name": "杨美玉",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981291"
@@ -9525,7 +9525,7 @@ const judgeData = [
     "name": "陈丽璇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981422"
@@ -9534,7 +9534,7 @@ const judgeData = [
     "name": "曾雅斯",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981130"
@@ -9543,7 +9543,7 @@ const judgeData = [
     "name": "曾巧如",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981395"
@@ -9552,7 +9552,7 @@ const judgeData = [
     "name": "吴健茵",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981417"
@@ -9561,7 +9561,7 @@ const judgeData = [
     "name": "聂赫男",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981061"
@@ -9570,7 +9570,7 @@ const judgeData = [
     "name": "林晓婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981462"
@@ -9579,7 +9579,7 @@ const judgeData = [
     "name": "黄小穗",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981685"
@@ -9588,7 +9588,7 @@ const judgeData = [
     "name": "何彦",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981902"
@@ -9597,7 +9597,7 @@ const judgeData = [
     "name": "谢彤洵",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981968"
@@ -9606,7 +9606,7 @@ const judgeData = [
     "name": "胡思琦",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981398"
@@ -9615,7 +9615,7 @@ const judgeData = [
     "name": "吴颂",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981104"
@@ -9624,7 +9624,7 @@ const judgeData = [
     "name": "俞婷婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981721"
@@ -9633,7 +9633,7 @@ const judgeData = [
     "name": "茶丽梅",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981585"
@@ -9642,7 +9642,7 @@ const judgeData = [
     "name": "鲁强",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981078"
@@ -9651,7 +9651,7 @@ const judgeData = [
     "name": "陈宝迪",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981516"
@@ -9660,7 +9660,7 @@ const judgeData = [
     "name": "赵泽婵",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981684"
@@ -9669,7 +9669,7 @@ const judgeData = [
     "name": "计晴",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981132"
@@ -9678,7 +9678,7 @@ const judgeData = [
     "name": "金春玲",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981448"
@@ -9687,7 +9687,7 @@ const judgeData = [
     "name": "杨晶晶",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981158"
@@ -9696,7 +9696,7 @@ const judgeData = [
     "name": "庄晓玲",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981330"
@@ -9705,7 +9705,7 @@ const judgeData = [
     "name": "贝奕佳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981592"
@@ -9714,7 +9714,7 @@ const judgeData = [
     "name": "田静静",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981169"
@@ -9723,7 +9723,7 @@ const judgeData = [
     "name": "黄嘉璇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981561"
@@ -9732,7 +9732,7 @@ const judgeData = [
     "name": "林翰",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981741"
@@ -9741,7 +9741,7 @@ const judgeData = [
     "name": "曾鸣",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981126"
@@ -9750,7 +9750,7 @@ const judgeData = [
     "name": "李妍",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981642"
@@ -9759,7 +9759,7 @@ const judgeData = [
     "name": "陈桂坍",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981649"
@@ -9768,7 +9768,7 @@ const judgeData = [
     "name": "肖英",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981043"
@@ -9777,7 +9777,7 @@ const judgeData = [
     "name": "胡洁",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981682"
@@ -9786,7 +9786,7 @@ const judgeData = [
     "name": "钟春秀",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981652"
@@ -9795,7 +9795,7 @@ const judgeData = [
     "name": "戴珊珊",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981443"
@@ -9804,7 +9804,7 @@ const judgeData = [
     "name": "罗婉婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981455"
@@ -9813,7 +9813,7 @@ const judgeData = [
     "name": "陈璇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981728"
@@ -9822,7 +9822,7 @@ const judgeData = [
     "name": "冯秀远",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981054"
@@ -9831,7 +9831,7 @@ const judgeData = [
     "name": "刘宇建",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981938"
@@ -9840,7 +9840,7 @@ const judgeData = [
     "name": "张婧筱",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981304"
@@ -9849,7 +9849,7 @@ const judgeData = [
     "name": "邓志伟",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981023"
@@ -9858,7 +9858,7 @@ const judgeData = [
     "name": "黄俊澍",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981449"
@@ -9867,7 +9867,7 @@ const judgeData = [
     "name": "陈曼琳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981798"
@@ -9876,7 +9876,7 @@ const judgeData = [
     "name": "潘捷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981787"
@@ -9885,7 +9885,7 @@ const judgeData = [
     "name": "刘倩恩",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981787"
@@ -9894,7 +9894,7 @@ const judgeData = [
     "name": "苏晓琳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981787"
@@ -9903,7 +9903,7 @@ const judgeData = [
     "name": "刘业发",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981131"
@@ -9912,7 +9912,7 @@ const judgeData = [
     "name": "罗文",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981423"
@@ -9921,7 +9921,7 @@ const judgeData = [
     "name": "蒋宇航",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981118"
@@ -9930,7 +9930,7 @@ const judgeData = [
     "name": "郭晶磊",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981645"
@@ -9939,7 +9939,7 @@ const judgeData = [
     "name": "吴晔",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981706"
@@ -9948,7 +9948,7 @@ const judgeData = [
     "name": "彭裕芬",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981775"
@@ -9957,7 +9957,7 @@ const judgeData = [
     "name": "单琪",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981407"
@@ -9966,7 +9966,7 @@ const judgeData = [
     "name": "曾丽梨",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981409"
@@ -9975,7 +9975,7 @@ const judgeData = [
     "name": "张瑛",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981936"
@@ -9984,7 +9984,7 @@ const judgeData = [
     "name": "曾巧雨",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981832"
@@ -9993,7 +9993,7 @@ const judgeData = [
     "name": "赖子生",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981719"
@@ -10002,7 +10002,7 @@ const judgeData = [
     "name": "杜阳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981083"
@@ -10011,7 +10011,7 @@ const judgeData = [
     "name": "郭盈",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981519"
@@ -10020,7 +10020,7 @@ const judgeData = [
     "name": "黄倩",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981519"
@@ -10029,7 +10029,7 @@ const judgeData = [
     "name": "李泰仁",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981375"
@@ -10038,7 +10038,7 @@ const judgeData = [
     "name": "富天辰",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981500"
@@ -10047,7 +10047,7 @@ const judgeData = [
     "name": "曾舒萍",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981272"
@@ -10056,7 +10056,7 @@ const judgeData = [
     "name": "刘舒婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981225"
@@ -10065,7 +10065,7 @@ const judgeData = [
     "name": "刘美琪",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981120"
@@ -10074,7 +10074,7 @@ const judgeData = [
     "name": "唐颖",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981804"
@@ -10083,7 +10083,7 @@ const judgeData = [
     "name": "刘莹",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981178"
@@ -10092,7 +10092,7 @@ const judgeData = [
     "name": "刘海圳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21891340"
@@ -10101,7 +10101,7 @@ const judgeData = [
     "name": "冉飘",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981376"
@@ -10110,7 +10110,7 @@ const judgeData = [
     "name": "何春梅",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981323"
@@ -10119,7 +10119,7 @@ const judgeData = [
     "name": "陈美琪",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981138"
@@ -10128,7 +10128,7 @@ const judgeData = [
     "name": "邓行成",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981046"
@@ -10137,7 +10137,7 @@ const judgeData = [
     "name": "马聪娇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981991"
@@ -10146,7 +10146,7 @@ const judgeData = [
     "name": "曾琪",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
+    "deptDetail": "综合审判庭",
     "caseType": "民事",
     "district": "福田区",
     "phone": "0755-21981528"
@@ -10155,8 +10155,8 @@ const judgeData = [
     "name": "雷桂森",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981087"
   },
@@ -10164,8 +10164,8 @@ const judgeData = [
     "name": "张玲美",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981440"
   },
@@ -10173,8 +10173,8 @@ const judgeData = [
     "name": "吴柳漩",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981365"
   },
@@ -10182,8 +10182,8 @@ const judgeData = [
     "name": "李雯",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981109"
   },
@@ -10191,8 +10191,8 @@ const judgeData = [
     "name": "庄晓民",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981690"
   },
@@ -10200,8 +10200,8 @@ const judgeData = [
     "name": "颜倩",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981378"
   },
@@ -10209,8 +10209,8 @@ const judgeData = [
     "name": "李姗姗",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981195"
   },
@@ -10218,8 +10218,8 @@ const judgeData = [
     "name": "陈晓芬",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981280"
   },
@@ -10227,8 +10227,8 @@ const judgeData = [
     "name": "刘丹阳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981408"
   },
@@ -10236,8 +10236,8 @@ const judgeData = [
     "name": "陈玲玲",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981814"
   },
@@ -10245,8 +10245,8 @@ const judgeData = [
     "name": "郑浩锐",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981123"
   },
@@ -10254,8 +10254,8 @@ const judgeData = [
     "name": "周婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981123"
   },
@@ -10263,8 +10263,8 @@ const judgeData = [
     "name": "林玉梅",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981382"
   },
@@ -10272,8 +10272,8 @@ const judgeData = [
     "name": "李绎",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981383"
   },
@@ -10281,8 +10281,8 @@ const judgeData = [
     "name": "肖融",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981428"
   },
@@ -10290,8 +10290,8 @@ const judgeData = [
     "name": "杨壹丽",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981875"
   },
@@ -10299,8 +10299,8 @@ const judgeData = [
     "name": "梁燕",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981514"
   },
@@ -10308,8 +10308,8 @@ const judgeData = [
     "name": "彭佳璐",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981369"
   },
@@ -10317,8 +10317,8 @@ const judgeData = [
     "name": "陈晓琳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "知产庭",
+    "caseType": "知产",
     "district": "福田区",
     "phone": "0755-21981942"
   },
@@ -10326,8 +10326,8 @@ const judgeData = [
     "name": "魏巍",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981161"
   },
@@ -10335,8 +10335,8 @@ const judgeData = [
     "name": "周倩",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981068"
   },
@@ -10344,8 +10344,8 @@ const judgeData = [
     "name": "高舒静",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981094"
   },
@@ -10353,8 +10353,8 @@ const judgeData = [
     "name": "李云",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981702"
   },
@@ -10362,8 +10362,8 @@ const judgeData = [
     "name": "李秋奋",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981940"
   },
@@ -10371,8 +10371,8 @@ const judgeData = [
     "name": "李琼",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981777"
   },
@@ -10380,8 +10380,8 @@ const judgeData = [
     "name": "李嘉茵",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981718"
   },
@@ -10389,8 +10389,8 @@ const judgeData = [
     "name": "孙圣烈",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981852"
   },
@@ -10398,8 +10398,8 @@ const judgeData = [
     "name": "张巧茹",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981906"
   },
@@ -10407,8 +10407,8 @@ const judgeData = [
     "name": "丰青青",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981414"
   },
@@ -10416,8 +10416,8 @@ const judgeData = [
     "name": "黄逸萍",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981945"
   },
@@ -10425,8 +10425,8 @@ const judgeData = [
     "name": "杨晴",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981444"
   },
@@ -10434,8 +10434,8 @@ const judgeData = [
     "name": "汪大波",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981393"
   },
@@ -10443,8 +10443,8 @@ const judgeData = [
     "name": "吴尚谕",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第一团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981393"
   },
@@ -10452,8 +10452,8 @@ const judgeData = [
     "name": "李洁",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981342"
   },
@@ -10461,8 +10461,8 @@ const judgeData = [
     "name": "王好琪",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981537"
   },
@@ -10470,8 +10470,8 @@ const judgeData = [
     "name": "叶琳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981943"
   },
@@ -10479,8 +10479,8 @@ const judgeData = [
     "name": "苏映莲",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981451"
   },
@@ -10488,8 +10488,8 @@ const judgeData = [
     "name": "蔡清明",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981773"
   },
@@ -10497,8 +10497,8 @@ const judgeData = [
     "name": "邹伶媛",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981453"
   },
@@ -10506,8 +10506,8 @@ const judgeData = [
     "name": "刘力源",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981399"
   },
@@ -10515,8 +10515,8 @@ const judgeData = [
     "name": "张华靖",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981856"
   },
@@ -10524,8 +10524,8 @@ const judgeData = [
     "name": "陈玲",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981182"
   },
@@ -10533,8 +10533,8 @@ const judgeData = [
     "name": "陈紫玉",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981064"
   },
@@ -10542,8 +10542,8 @@ const judgeData = [
     "name": "陈尚斌",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981593"
   },
@@ -10551,8 +10551,8 @@ const judgeData = [
     "name": "苏桂粧",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第二团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981830"
   },
@@ -10560,8 +10560,8 @@ const judgeData = [
     "name": "郭奕好",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981128"
   },
@@ -10569,8 +10569,8 @@ const judgeData = [
     "name": "孙建强",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981582"
   },
@@ -10578,8 +10578,8 @@ const judgeData = [
     "name": "陈霞",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981941"
   },
@@ -10587,8 +10587,8 @@ const judgeData = [
     "name": "许倩婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第三团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981220"
   },
@@ -10596,8 +10596,8 @@ const judgeData = [
     "name": "黄文勇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981189"
   },
@@ -10605,8 +10605,8 @@ const judgeData = [
     "name": "陈敏倩",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981284"
   },
@@ -10614,8 +10614,8 @@ const judgeData = [
     "name": "庄宁",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981476"
   },
@@ -10623,8 +10623,8 @@ const judgeData = [
     "name": "田敬宇",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981349"
   },
@@ -10632,8 +10632,8 @@ const judgeData = [
     "name": "曾秋红",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981509"
   },
@@ -10641,8 +10641,8 @@ const judgeData = [
     "name": "张丁文",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981028"
   },
@@ -10650,8 +10650,8 @@ const judgeData = [
     "name": "卢嘉玲",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981073"
   },
@@ -10659,8 +10659,8 @@ const judgeData = [
     "name": "何志伟",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981779"
   },
@@ -10668,8 +10668,8 @@ const judgeData = [
     "name": "吴桃",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981792"
   },
@@ -10677,8 +10677,8 @@ const judgeData = [
     "name": "洪婷茹",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981907"
   },
@@ -10686,8 +10686,8 @@ const judgeData = [
     "name": "康春",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981959"
   },
@@ -10695,8 +10695,8 @@ const judgeData = [
     "name": "许秋泽",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981772"
   },
@@ -10704,8 +10704,8 @@ const judgeData = [
     "name": "徐海玉",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981768"
   },
@@ -10713,8 +10713,8 @@ const judgeData = [
     "name": "刘婧",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981655"
   },
@@ -10722,8 +10722,8 @@ const judgeData = [
     "name": "刘慧",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981742"
   },
@@ -10731,8 +10731,8 @@ const judgeData = [
     "name": "工佳佳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981831"
   },
@@ -10740,8 +10740,8 @@ const judgeData = [
     "name": "查沛言",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981439"
   },
@@ -10749,8 +10749,8 @@ const judgeData = [
     "name": "江东辰",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981546"
   },
@@ -10758,8 +10758,8 @@ const judgeData = [
     "name": "朱淑乔",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981556"
   },
@@ -10767,8 +10767,8 @@ const judgeData = [
     "name": "黄芳",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981971"
   },
@@ -10776,8 +10776,8 @@ const judgeData = [
     "name": "刘权山",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981623"
   },
@@ -10785,8 +10785,8 @@ const judgeData = [
     "name": "马翼",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981108"
   },
@@ -10794,8 +10794,8 @@ const judgeData = [
     "name": "陈思杰",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981499"
   },
@@ -10803,8 +10803,8 @@ const judgeData = [
     "name": "吴加颖",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981689"
   },
@@ -10812,8 +10812,8 @@ const judgeData = [
     "name": "郑丹洁",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981080"
   },
@@ -10821,8 +10821,8 @@ const judgeData = [
     "name": "林梦莹",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981127"
   },
@@ -10830,8 +10830,8 @@ const judgeData = [
     "name": "李韵虹",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981092"
   },
@@ -10839,8 +10839,8 @@ const judgeData = [
     "name": "王亚飞",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981097"
   },
@@ -10848,8 +10848,8 @@ const judgeData = [
     "name": "彭威",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21981567"
   },
@@ -10857,8 +10857,8 @@ const judgeData = [
     "name": "李玉婷",
     "court": "福田区人民法院",
     "department": "审判庭",
-    "deptDetail": "第四团队",
-    "caseType": "民事",
+    "deptDetail": "互联网和金融审判庭",
+    "caseType": "金融",
     "district": "福田区",
     "phone": "0755-21891656"
   },
