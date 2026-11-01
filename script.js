@@ -169,6 +169,20 @@ function renderResults(results) {
   }
 }
 
+function buildReportMailto(judge) {
+  const subject = `【更正/删除申请】${judge.name} - ${judge.court}`;
+  const body =
+    `您好，我发现以下记录需要更正或删除：\n\n` +
+    `姓名：${judge.name}\n` +
+    `法院：${judge.court}\n` +
+    `庭室：${judge.department}${judge.deptDetail && judge.deptDetail !== judge.department ? " / " + judge.deptDetail : ""}\n` +
+    `电话：${judge.phone}\n\n` +
+    `申请类型（更正 / 删除）：\n` +
+    `具体说明：\n\n` +
+    `（如为删除申请，本站将下架该条并加入不再采集名单。为核验关联性，可能请您提供工号或任职证明，核验材料用后即删。）`;
+  return `mailto:3219657129@qq.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+}
+
 function createJudgeCard(judge) {
   const card = document.createElement("div");
   card.className = "judge-card";
@@ -200,6 +214,7 @@ function createJudgeCard(judge) {
       <a href="tel:${judge.phone}" class="judge-phone">${judge.phone}</a>
       <button class="copy-btn" data-phone="${judge.phone}">复制号码</button>
     </div>
+    <a class="report-link" href="${buildReportMailto(judge)}">信息有误？申请更正 / 删除</a>
   `;
 
   // Copy button logic

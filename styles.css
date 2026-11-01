@@ -612,6 +612,40 @@ body::before {
   color: var(--text-muted);
 }
 
+.footer-rights {
+  margin-top: 10px;
+  line-height: 1.9;
+}
+
+.footer-rights b {
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.footer-rights a {
+  color: #5b8def;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.footer-rights a:hover {
+  color: #3b6fd4;
+}
+
+.report-link {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 12px;
+  color: var(--text-muted);
+  text-decoration: none;
+  opacity: 0.75;
+}
+
+.report-link:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 640px) {
   .container {
