@@ -11,6 +11,7 @@ const state = {
     caseType: null,
     district: null,
     court: null,
+    deptDetail: null,
   },
   visibleCount: PAGE_SIZE,
   currentResults: [],
@@ -26,6 +27,11 @@ const resultCount = document.getElementById("resultCount");
 const activeFilterTags = document.getElementById("activeFilterTags");
 const clearAllFilters = document.getElementById("clearAllFilters");
 const activeFiltersDiv = document.getElementById("activeFilters");
+const deptDetailFilters = document.getElementById("deptDetailFilters");
+
+// 庭室筛选：按当前所选法院动态生成，避免不同法院的庭室名混在一起
+let deptDetailExpanded = false;
+const DEPT_DETAIL_LIMIT = 10;
 
 // Load-more button
 const loadMoreBtn = document.createElement("button");
@@ -40,6 +46,7 @@ document.querySelector(".results-section").appendChild(loadMoreBtn);
 // ===== Initialization =====
 function init() {
   state.currentResults = judgeData;
+  renderDeptDetailFilters();
   renderResults(judgeData);
   bindEvents();
 }
@@ -78,6 +85,11 @@ function bindEvents() {
     group.addEventListener("click", (e) => {
       const chip = e.target.closest(".chip");
       if (!chip) return;
+      if (chip.classList.contains("chip-more")) {
+        deptDetailExpanded = !deptDetailExpanded;
+        renderDeptDetailFilters();
+        return;
+      }
       const filterKey = chip.dataset.filter;
       const filterValue = chip.dataset.value;
 
@@ -93,6 +105,9 @@ function bindEvents() {
         chip.classList.add("active");
       }
 
+      // 法院变化时重建庭室选项
+      if (filterKey === "court") renderDeptDetailFilters();
+
       updateActiveFilterTags();
       applyAllFilters();
     });
@@ -102,9 +117,50 @@ function bindEvents() {
   clearAllFilters.addEventListener("click", () => {
     Object.keys(state.filters).forEach((k) => (state.filters[k] = null));
     document.querySelectorAll(".chip.active").forEach((c) => c.classList.remove("active"));
+    renderDeptDetailFilters();
     updateActiveFilterTags();
     applyAllFilters();
   });
+}
+
+// ===== 庭室筛选（动态） =====
+function getDeptDetailOptions() {
+  const court = state.filters.court;
+  const counts = new Map();
+  judgeData.forEach((j) => {
+    if (court && j.court !== court) return;
+    const v = (j.deptDetail || "").trim();
+    if (!v) return;
+    counts.set(v, (counts.get(v) || 0) + 1);
+  });
+  return [...counts.entries()].sort((a, b) => b[1] - a[1]);
+}
+
+function renderDeptDetailFilters() {
+  if (!deptDetailFilters) return;
+  const all = getDeptDetailOptions();
+
+  // 切换法院后，原先选中的庭室可能在该法院不存在，自动失效
+  if (state.filters.deptDetail && !all.some(([v]) => v === state.filters.deptDetail)) {
+    state.filters.deptDetail = null;
+  }
+
+  const list = deptDetailExpanded ? all : all.slice(0, DEPT_DETAIL_LIMIT);
+  const chips = list
+    .map(([v, n]) => {
+      const active = state.filters.deptDetail === v ? " active" : "";
+      return `<button class="chip${active}" data-filter="deptDetail" data-value="${v}">${v}<span class="chip-count">${n}</span></button>`;
+    })
+    .join("");
+
+  const more =
+    all.length > DEPT_DETAIL_LIMIT
+      ? `<button class="chip chip-more">${
+          deptDetailExpanded ? "收起" : `更多 ${all.length - DEPT_DETAIL_LIMIT} 个`
+        }</button>`
+      : "";
+
+  deptDetailFilters.innerHTML = chips + more;
 }
 
 // ===== Filter Logic =====
@@ -244,6 +300,7 @@ function updateActiveFilterTags() {
     caseType: "案件类型",
     district: "区县",
     court: "法院",
+    deptDetail: "庭室",
   };
 
   let hasFilters = false;

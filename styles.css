@@ -646,6 +646,24 @@ body::before {
   text-decoration: underline;
 }
 
+.filter-hint {
+  font-size: 12px;
+  font-weight: 400;
+  opacity: 0.6;
+  margin-left: 4px;
+}
+
+.chip-count {
+  margin-left: 5px;
+  font-size: 11px;
+  opacity: 0.55;
+}
+
+.chip-more {
+  border-style: dashed;
+  opacity: 0.8;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 640px) {
   .container {
